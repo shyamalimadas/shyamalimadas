@@ -10,6 +10,13 @@
 - Java
 - Python
 - R
+- SQL
+- C
+- MatLab
+- Swift
+- Rust
+- Ruby
+- Vue
 
 👧ABOUT
 - 🔭 I’m currently working on the OCSS (Otago University Computing Students Society) website
