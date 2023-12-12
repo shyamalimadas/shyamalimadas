@@ -1,5 +1,6 @@
 # Hello beautiful people of the world 👋
 
+## Shyamalima Shreya Das
 ### Aspiring Software Engineer and Data Scientist - Currently a 2nd Year Otago University Student. 
 
 💻LANGUAGES LEARNT
