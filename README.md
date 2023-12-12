@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello beautiful people of the world 👋
 
-<!--
-**shyamalimadas/shyamalimadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer and Data Scientist - Currently a 2nd Year Otago University Student. 
 
-Here are some ideas to get you started:
+💻LANGUAGES LEARNT
+- HTML
+- CSS
+- Javascript
+- Java
+- Python
+- R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the OCSS (Otago University Computing Students Society) website
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: You can email me --> shyamalimashreyadas@gmail.com
+- 😄 Pronouns: She/Her
