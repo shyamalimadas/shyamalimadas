@@ -9,12 +9,6 @@
 - 📫 How to reach me: You can email me --> shyamalimashreyadas@gmail.com
 - 😄 Pronouns: She/Her
 
-#### 📈 Stats 
-<!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
-
-<a href = 'https://www.linkedin.com/in/YOUR-USERNAME-HERE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-
 #### 👩🏽‍💻 LANGUAGES LEARNT
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
