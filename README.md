@@ -1,7 +1,7 @@
 # Hello beautiful people of the world 👋
 
 ## Shyamalima Shreya Das
-### Aspiring Software Engineer and Data Scientist - Currently a 3rd Year Otago University Student.
+### Aspiring Software Engineer and Data Scientist - Currently a 4rd Year Otago University Student.
 
 #### 👧🏽ABOUT
 - 🔭 I’m currently working on my portfolio website
